@@ -18,7 +18,6 @@ A person who always willing to learn new something everyday and executing it int
 <details>
     <summary>📈 My Coding Stats</summary>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
