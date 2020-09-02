@@ -7,7 +7,7 @@
 <a href="https://profiles.wordpress.org/zekinah/" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg alt="drowes" height="20" width="20" /></a>
 </p>
 <p align="center">
-A person who always willing to learn new something everyday and executing it into small and big projects.
+A person who always willing to learn something new everyday and executing it into small and big projects.
 </p>
 
 - 🛠 Experienced in developing WordPress and Magento site and plugins.
