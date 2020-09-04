@@ -2,9 +2,9 @@
 <p align="center">
 <a href="https://www.zekinahlecaros.com/" target="blank"><img align="center" src=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg alt="zekinalecaros.com" height="20" width="20" /></a>
 &emsp;
-<a href="https://ph.linkedin.com/in/zekinah" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="danjrowe" height="20" width="20" /></a>
+<a href="https://ph.linkedin.com/in/zekinah" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="in-zekinah" height="20" width="20" /></a>
   &emsp;
-<a href="https://profiles.wordpress.org/zekinah/" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg alt="drowes" height="20" width="20" /></a>
+<a href="https://profiles.wordpress.org/zekinah/" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg alt="wp-zekinah" height="20" width="20" /></a>
 </p>
 <p align="center">
 A person who always willing to learn something new everyday and executing it into small and big projects.
