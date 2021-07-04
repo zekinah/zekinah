@@ -1,3 +1,4 @@
+<samp>
 <h2 align="center">Hi, I'm Zekinah 👋</h2>
 <p align="center">
 <a href="https://www.zekinahlecaros.com/" target="blank"><img align="center" src=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg alt="zekinalecaros.com" height="20" width="20" /></a>
@@ -105,3 +106,4 @@ Vue                      4 repos             ██░░░░░░░░░�
  Last Updated on 04/07/2021
 <!--END_SECTION:waka-->
 </details>
+</samp>
