@@ -53,7 +53,7 @@ A person who always willing to learn something new everyday and executing it int
  > 
 > 📜 30 Public Repositories 
  > 
-> 🔑 25 Private Repositories  
+> 🔑 26 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
