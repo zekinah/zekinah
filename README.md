@@ -45,7 +45,7 @@ A person who always willing to learn something new everyday and executing it int
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 486 Contributions in the Year 2021
+> 🏆 487 Contributions in the Year 2021
  > 
 > 📦 160.1 kB Used in Github's Storage 
  > 
@@ -53,7 +53,7 @@ A person who always willing to learn something new everyday and executing it int
  > 
 > 📜 30 Public Repositories 
  > 
-> 🔑 26 Private Repositories  
+> 🔑 27 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
