@@ -45,9 +45,9 @@ A person who always willing to learn something new everyday and executing it int
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 554 Contributions in the Year 2021
+> 🏆 539 Contributions in the Year 2021
  > 
-> 📦 160.6 kB Used in Github's Storage 
+> 📦 160.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
