@@ -43,11 +43,11 @@ A person who always willing to learn something new everyday and executing it int
     <summary>📈 My Coding Stats</summary>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 601 Contributions in the Year 2021
  > 
-> 📦 160.9 kB Used in Github's Storage 
+> 📦 160.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
