@@ -47,7 +47,7 @@ A person who always willing to learn something new everyday and executing it int
 
 **🐱 My GitHub Data** 
 
-> 🏆 607 Contributions in the Year 2021
+> 🏆 608 Contributions in the Year 2021
  > 
 > 📦 161.7 kB Used in GitHub's Storage 
  > 
