@@ -49,7 +49,7 @@ A person who always willing to learn something new everyday and executing it int
 
 > 🏆 608 Contributions in the Year 2021
  > 
-> 📦 161.8 kB Used in GitHub's Storage 
+> 📦 161.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
