@@ -43,13 +43,13 @@ A person who always willing to learn something new everyday and executing it int
     <summary>📈 My Coding Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs%2019%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 608 Contributions in the Year 2021
  > 
-> 📦 161.1 kB Used in GitHub's Storage 
+> 📦 161.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
