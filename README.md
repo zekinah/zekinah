@@ -43,13 +43,13 @@ A person who always willing to learn something new everyday and executing it int
     <summary>📈 My Coding Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C209%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C204%20hrs%2037%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 69 Contributions in the Year 2022
  > 
-> 📦 156.7 kB Used in GitHub's Storage 
+> 📦 156.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,7 +105,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2022 06:30:27 UTC
+ Last Updated on 12/10/2022 07:25:45 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
