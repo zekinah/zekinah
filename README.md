@@ -47,7 +47,7 @@ A person who always willing to learn something new everyday and executing it int
 
 **🐱 My GitHub Data** 
 
-> 📦 161.9 kB Used in GitHub's Storage 
+> 📦 161.8 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2023
  > 
@@ -102,7 +102,7 @@ Vue                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/02/2023 19:09:54 UTC
+ Last Updated on 27/02/2023 20:13:25 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
