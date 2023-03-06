@@ -43,7 +43,7 @@ A person who always willing to learn something new everyday and executing it int
     <summary>📈 My Coding Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C685%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C683%20hrs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -102,7 +102,7 @@ Vue                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/03/2023 06:16:13 UTC
+ Last Updated on 06/03/2023 07:11:41 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
