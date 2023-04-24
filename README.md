@@ -43,7 +43,7 @@ A person who always willing to learn something new everyday and executing it int
     <summary>📈 My Coding Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C838%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C841%20hrs%2024%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -82,10 +82,10 @@ Sunday                   1115 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      6 hrs 59 mins       ██████████████░░░░░░░░░░░   55.73 % 
-JavaScript               4 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.67 % 
-CSS                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+PHP                      8 hrs 27 mins       ███████████████░░░░░░░░░░   58.39 % 
+JavaScript               5 hrs               █████████░░░░░░░░░░░░░░░░   34.59 % 
+CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -101,7 +101,7 @@ Vue                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/04/2023 07:12:34 UTC
+ Last Updated on 24/04/2023 08:16:22 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
