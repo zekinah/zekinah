@@ -43,8 +43,6 @@ A person who always willing to learn something new everyday and executing it int
     <summary>📈 My Coding Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C676%20hrs%2033%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 190.2 kB Used in GitHub's Storage 
@@ -102,7 +100,7 @@ Vue                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2023 06:17:04 UTC
+ Last Updated on 07/12/2023 07:12:13 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
