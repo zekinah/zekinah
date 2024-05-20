@@ -47,13 +47,15 @@ A person who always willing to learn something new everyday and executing it int
     <summary>📈 My Coding Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C296%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C303%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 292 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,10 +88,10 @@ Sunday                   1148 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      34 hrs 46 mins      █████████████████████░░░░   83.28 % 
-JavaScript               3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-CSS                      1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Other                    1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+PHP                      32 hrs 11 mins      ████████████████████░░░░░   80.32 % 
+JavaScript               3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+CSS                      2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Other                    1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
@@ -106,7 +108,7 @@ Hack                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2024 07:14:10 UTC
+ Last Updated on 20/05/2024 08:17:06 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
