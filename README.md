@@ -47,15 +47,13 @@ A person who always willing to learn something new everyday and executing it int
     <summary>📈 My Coding Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C328%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C329%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 307 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,9 +64,9 @@ A person who always willing to learn something new everyday and executing it int
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                506 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+🌞 Morning                506 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 🌆 Daytime                1726 commits        ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-🌃 Evening                2425 commits        ██████████░░░░░░░░░░░░░░░   39.47 % 
+🌃 Evening                2426 commits        ██████████░░░░░░░░░░░░░░░   39.48 % 
 🌙 Night                  1487 commits        ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -76,10 +74,10 @@ A person who always willing to learn something new everyday and executing it int
 ```text
 Monday                   798 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
 Tuesday                  706 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Wednesday                785 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Wednesday                786 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
 Thursday                 728 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 Friday                   944 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Saturday                 1035 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Saturday                 1035 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
 Sunday                   1148 commits        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
 ```
 
@@ -108,7 +106,7 @@ Hack                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2024 04:15:54 UTC
+ Last Updated on 23/05/2024 05:15:18 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
