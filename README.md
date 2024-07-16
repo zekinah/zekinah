@@ -59,7 +59,7 @@ A person who always willing to learn something new everyday and executing it int
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 31 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -108,7 +108,7 @@ Hack                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2024 15:13:13 UTC
+ Last Updated on 16/07/2024 16:17:00 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
