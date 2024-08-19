@@ -47,13 +47,15 @@ A person who always willing to learn something new everyday and executing it int
     <summary>📈 My Coding Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C694%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C695%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 593 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,14 +67,14 @@ A person who always willing to learn something new everyday and executing it int
 
 ```text
 🌞 Morning                506 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-🌆 Daytime                1796 commits        ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-🌃 Evening                2544 commits        ██████████░░░░░░░░░░░░░░░   39.61 % 
-🌙 Night                  1577 commits        ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+🌆 Daytime                1798 commits        ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+🌃 Evening                2544 commits        ██████████░░░░░░░░░░░░░░░   39.60 % 
+🌙 Night                  1577 commits        ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   850 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Monday                   852 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
 Tuesday                  756 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 Wednesday                841 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 Thursday                 796 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
@@ -106,7 +108,7 @@ Hack                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2024 22:15:20 UTC
+ Last Updated on 19/08/2024 23:16:14 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
