@@ -47,7 +47,7 @@ A person who always willing to learn something new everyday and executing it int
     <summary>📈 My Coding Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C030%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C023%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -55,7 +55,7 @@ A person who always willing to learn something new everyday and executing it int
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 842 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,20 +67,20 @@ A person who always willing to learn something new everyday and executing it int
 
 ```text
 🌞 Morning                506 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-🌆 Daytime                1821 commits        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-🌃 Evening                2655 commits        ██████████░░░░░░░░░░░░░░░   39.79 % 
-🌙 Night                  1690 commits        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+🌆 Daytime                1821 commits        ███████░░░░░░░░░░░░░░░░░░   27.28 % 
+🌃 Evening                2658 commits        ██████████░░░░░░░░░░░░░░░   39.82 % 
+🌙 Night                  1690 commits        ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   894 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Monday                   897 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
 Tuesday                  800 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
 Wednesday                885 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
 Thursday                 849 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 Friday                   995 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
 Saturday                 1035 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Sunday                   1214 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Sunday                   1214 commits        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
 ```
 
 
@@ -108,7 +108,7 @@ Hack                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2024 06:21:30 UTC
+ Last Updated on 05/11/2024 07:15:31 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
