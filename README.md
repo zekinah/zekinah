@@ -55,6 +55,8 @@ A person who always willing to learn something new everyday and executing it int
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 224 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -106,7 +108,7 @@ Hack                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/01/2025 10:18:21 UTC
+ Last Updated on 13/01/2025 11:15:09 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
