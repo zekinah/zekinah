@@ -47,13 +47,15 @@ A person who always willing to learn something new everyday and executing it int
     <summary>📈 My Coding Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C451%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C451%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 276 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,19 +68,19 @@ A person who always willing to learn something new everyday and executing it int
 ```text
 🌞 Morning                702 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 🌆 Daytime                1987 commits        ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-🌃 Evening                3129 commits        ██████████░░░░░░░░░░░░░░░   39.00 % 
+🌃 Evening                3130 commits        ██████████░░░░░░░░░░░░░░░   39.00 % 
 🌙 Night                  2206 commits        ███████░░░░░░░░░░░░░░░░░░   27.49 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1123 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Tuesday                  1054 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Monday                   1123 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Tuesday                  1054 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
 Wednesday                1097 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
 Thursday                 1090 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
 Friday                   1170 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 Saturday                 1130 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Sunday                   1360 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Sunday                   1361 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
 ```
 
 
@@ -106,7 +108,7 @@ Hack                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/01/2025 02:45:44 UTC
+ Last Updated on 20/01/2025 03:19:52 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
