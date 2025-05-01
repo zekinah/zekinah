@@ -47,15 +47,13 @@ A person who always willing to learn something new everyday and executing it int
     <summary>📈 My Coding Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C938%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C939%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 821 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,7 +106,7 @@ Hack                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2025 09:19:46 UTC
+ Last Updated on 01/05/2025 10:19:18 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
