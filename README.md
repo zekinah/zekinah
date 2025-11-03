@@ -49,7 +49,7 @@ A person who always willing to learn something new everyday and executing it int
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C631%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -108,7 +108,7 @@ Hack                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 22:18:21 UTC
+ Last Updated on 03/11/2025 23:17:27 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
