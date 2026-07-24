@@ -47,6 +47,8 @@ A person who always willing to learn something new everyday and executing it int
     <summary>📈 My Coding Stats</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C629%20hrs%2017%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -61,6 +63,38 @@ A person who always willing to learn something new everyday and executing it int
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                708 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+🌆 Daytime                2018 commits        ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+🌃 Evening                3338 commits        ██████████░░░░░░░░░░░░░░░   38.92 % 
+🌙 Night                  2512 commits        ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1252 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Tuesday                  1120 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Wednesday                1207 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Thursday                 1258 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Friday                   1199 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Saturday                 1130 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Sunday                   1410 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+PHP                      25 hrs 59 mins      ██████████████████░░░░░░░   71.25 % 
+CSS                      2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+JavaScript               1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+JSON                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Bash                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -74,7 +108,7 @@ Hack                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 08:23:39 UTC
+ Last Updated on 24/07/2026 12:27:13 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
