@@ -88,11 +88,11 @@ Sunday                   1410 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      25 hrs 49 mins      █████████████████░░░░░░░░   69.16 % 
-CSS                      3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-JSON                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-JavaScript               2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Bash                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+PHP                      24 hrs 50 mins      █████████████████░░░░░░░░   69.29 % 
+CSS                      3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+JavaScript               2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+JSON                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+SCSS                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -108,7 +108,7 @@ Hack                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 08:27:41 UTC
+ Last Updated on 26/07/2026 10:44:08 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
