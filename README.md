@@ -47,7 +47,9 @@ A person who always willing to learn something new everyday and executing it int
     <summary>📈 My Coding Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C638%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C433%20hrs%2058%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -95,6 +97,28 @@ JavaScript               1 hr 46 mins        █░░░░░░░░░░�
 Bash                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 32 mins (23.92%)
+
+✍️ 9,433 lines written by AI, 6,819 lines written by hand (58.04% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 14 AI Sessions, 89 AI Prompts
+
+Cursor                   10,420 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 58.04% of written lines came from AI
+📄 Detailed Prompter — average 782 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 62.59% of changed lines were hand-edited
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -108,7 +132,7 @@ Hack                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 13:40:21 UTC
+ Last Updated on 27/07/2026 16:17:16 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
