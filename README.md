@@ -47,9 +47,9 @@ A person who always willing to learn something new everyday and executing it int
     <summary>📈 My Coding Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C525%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C528%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-119%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -90,34 +90,34 @@ Sunday                   1410 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      23 hrs 37 mins      █████████████████░░░░░░░░   69.92 % 
-JavaScript               3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-SCSS                     2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-JSON                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-XML                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+PHP                      21 hrs 56 mins      █████████████████░░░░░░░░   66.91 % 
+JavaScript               3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+SCSS                     2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+JSON                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+XML                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 13 mins (24.34%)
+⏱ AI Coding Time: 7 hrs 57 mins (24.25%)
 
-✍️ 7,874 lines written by AI, 5,965 lines written by hand (56.9% AI-written)
+✍️ 5,327 lines written by AI, 5,792 lines written by hand (47.91% AI-written)
 
 🔤 673 Input Tokens, 673 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 189 AI Prompts
+🧠 21 AI Sessions, 297 AI Prompts
 
-Grok                     9,698 lines         ███████████████████████░░   90.11 % 
-Cursor                   1,064 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Grok                     6,830 lines         ████████████████████████░   97.60 % 
+Cursor                   168 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 56.9% of written lines came from AI
-📄 Detailed Prompter — average 700 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 55.85% of changed lines were hand-edited
+⚖️ Balanced with AI — 47.91% of written lines came from AI
+📄 Detailed Prompter — average 885 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 63.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -133,7 +133,7 @@ Hack                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 07:29:04 UTC
+ Last Updated on 15/08/2026 08:23:47 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
