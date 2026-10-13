@@ -90,35 +90,35 @@ Sunday                   1413 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      15 hrs 5 mins       █████████████████░░░░░░░░   66.25 % 
-JavaScript               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-SCSS                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-CSS                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+PHP                      17 hrs 38 mins      █████████████████░░░░░░░░   69.54 % 
+JSON                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+JavaScript               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+CSS                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 10 mins (57.85%)
+⏱ AI Coding Time: 12 hrs 47 mins (50.38%)
 
-✍️ 8,349 lines written by AI, 3,944 lines written by hand (67.92% AI-written)
+✍️ 7,608 lines written by AI, 4,206 lines written by hand (64.4% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 316 AI Prompts
+🧠 22 AI Sessions, 248 AI Prompts
 
-Composer                 8,681 lines         █████████████████████████   99.32 % 
-Grok                     47 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Cursor                   12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Composer                 7,899 lines         █████████████████████████   99.26 % 
+Grok                     47 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Cursor                   12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 67.92% of written lines came from AI
-📝 Concise Prompter — average 360 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 43.12% of changed lines were hand-edited
+⚖️ Balanced with AI — 64.4% of written lines came from AI
+📝 Concise Prompter — average 458 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 58.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -134,7 +134,7 @@ Hack                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 05:18:48 UTC
+ Last Updated on 13/10/2026 13:31:53 UTC
 <!--END_SECTION:waka-->
 </details>
 </samp>
